@@ -52,11 +52,13 @@ body {
     margin-left: 220px; 
     padding: 2rem; 
     color: #333; 
+    margin-bottom: 2rem;
 }
 
 @media (max-width: 768px) {
     .content {
         margin-left: 0; 
+        margin-bottom: 2rem;
     }
 }
 
